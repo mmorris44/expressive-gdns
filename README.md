@@ -1,7 +1,7 @@
 # Expressive GDNs
 **Matthew Morris, Thomas D. Barrett, Arnu Pretorius**
 
-This is the code used in our paper, [Universally Expressive Communication in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2206.06758).
+This is the code used in our paper, [Universally Expressive Communication in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2206.06758), which was published in NeurIPS 2022.
 
 ## Installation
 `make build` can be used to create a Docker image
