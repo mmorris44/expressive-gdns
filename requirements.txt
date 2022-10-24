@@ -1,0 +1,5 @@
+numpy
+torch
+wandb
+visdom
+gym==0.23.1
